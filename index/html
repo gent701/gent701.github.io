@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ru">
+    <head>
+        <meta charset="UTF-8">
+        <title>Резюме</title>
+        <link  rel="stylesheet" type="text/css" href="../style.css"/>
+    </head>
+      <body>
+        <div id="header">
+          <h1>Артём Александрович</h1>
+          <h3>Фронтендер JavaScript</h3>
+          <p>
+          <a href=gmail.com>gent701@gmail.com</a>,  <a href="vk.com">vk.com</a>
+          Я только начинаю свой путь , поэтому еще рано хвастаться результатами , но все придет со временем в это я уж точно верю .Ведь я стараюсь так что все получится успехов мне!  скоро я впишу сюда знание JS как минимум .
+          </p>
+       </div>
+       <div id="main">
+             <p>
+             Готов к удаленной работе и релокации.
+          </p>
+          <h2>Опыт работы</h2>
+
+          <h4>ООО"Siena"</h4>
+          <p>не связанно с текущей професией </p>
+           <ul>
+            <li>я </li>
+            <li>умею</li>
+            <li>создавать списки</li>
+           </ul>
+            <h2>Образование</h2>
+            <h3>ЗНТУ</h3>
+            <p>Юрист  2012-2014</p>
+            <h2>Другие навыки и увлечения</h2>
+             <ul>
+               <li>Занимаюсь спортом</li>
+               <li>Открыт всему новому</li>
+             </ul>
+        </div>
+        <div id="footer">
+                                <b>Artem Aleksandrovich</b> <br/>
+                 ул 8 марта г.Москва РФ , +79851006442, <a href="gmail@.com">gmail@.com</a>
+        </div>
+    </body>
+</html>
+
+<!-- END -->
